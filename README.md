@@ -29,12 +29,6 @@ git fetch --all
 git checkout origin/main
 ```
 
-> for preconfigured `env` with multiple environments with **flavors** & **schema** then checkout from `env_config` branch
-
-```bash
-git checkout origin/env_config
-```
-
 #### 2. Navigate to the project directory:
 
 ```bash
@@ -57,20 +51,6 @@ yarn install
 # using npm
 npm run android
 
-# for read env files with multiple flavors
-npm run android-stage
-npm run android-qa
-npm run android-prod
-
-# for release build with multiple flavors
-npm run android-stage-release
-npm run android-qa-release
-npm run android-prod-release
-
-# for release bundle build with multiple flavors
-npm run android-stage-bundle
-npm run android-qa-bundle
-npm run android-prod-bundle
 
 ```
 
@@ -86,10 +66,6 @@ npm run android-prod-bundle
 # using npm
 npm run ios
 
-# for read env files
-npm run ios-stage
-npm run ios-qa
-npm run ios-prod
 
 ```
 
@@ -127,7 +103,7 @@ The project structure follows a modular pattern for easy maintenance and scalabi
 - **Socket.io:** Real-time communication for interactive features.
 - **Appearance:** Automatically handle light and dark mode based on device appearance.
 - **Internet Info:** Managing network connection.
-- **React Native Config `.env`:** Manage different environments with multiple flavors & schema.
+
 
 ## Upcoming Features
 
