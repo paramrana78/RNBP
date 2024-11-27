@@ -19,7 +19,7 @@ Before you begin, make sure you have the following installed on your machine:
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/uma130012/RNBP.git
+git clone https://github.com/paramrana78/RNBP.git
 ```
 
 > checkout from `main` branch
@@ -140,7 +140,7 @@ The project structure follows a modular pattern for easy maintenance and scalabi
 
 ## Authors
 
-- [Uma Shankar](https://github.com/uma130012/RNBP)
+- [Paramjit Rana](https://github.com/paramrana78/RNBP)
 
 ## Support
 
@@ -148,8 +148,8 @@ If you find this project helpful, please consider giving it a star on GitHub! â­
 
 ## Feedback
 
-If you have any feedback, please reach out to us at umashankarhajipur@gmail.com
+If you have any feedback, please reach out to us at paramrana78@gmail.com
 
 ## ðŸ”— Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uma-s-b8b256155)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramrana78)
